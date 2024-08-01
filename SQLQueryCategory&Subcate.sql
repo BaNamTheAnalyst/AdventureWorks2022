@@ -59,5 +59,4 @@ SELECT * FROM BikeRevenue1
 SELECT 
 	* 
 FROM UnionCategory
-WHERE CategoryName = 'Components'
 
