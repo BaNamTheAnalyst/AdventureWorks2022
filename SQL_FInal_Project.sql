@@ -1,4 +1,4 @@
-﻿--Tính revenue, purchas expense qua các năm
+﻿-- Calculate Revenue and Expense throughout the year
 	--Calculate Revenue throughout the year
 WITH Revenue AS (
 SELECT 
