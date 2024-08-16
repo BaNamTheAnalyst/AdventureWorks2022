@@ -1,7 +1,14 @@
-Dữ liệu được thu thập trong thời kỳ đại dịch COVID19 hoành hành ở khắp các quốc gia trên toàn thế giới. Dữ liệu được thu thập từ tháng 1 năm 2020 đến hết tháng 7 năm đó. Dữ liệu được thu thập chủ yếu về:Tổng hợp các ca phơi nhiễm, ca tử vong, ca phục hồi hay những trường hợp mắc mới,…
+Based on the AdventureWorks2022 dataset:
 
-Một loại coronavirus mới được chỉ định là 2019-nCoV lần đầu tiên được xác định ở Vũ Hán, thủ phủ tỉnh Hồ Bắc của Trung Quốc.
+By SQL Query to statistic some KPIs, by Power BI to visualize calculated insights.
 
-Mọi người bị viêm phổi mà không có nguyên nhân rõ ràng và các loại vắc xin hoặc phương pháp điều trị hiện có không hiệu quả.
+    Evaluating sale performance of the firm through basic KPIs such as: revenue, expense, profit and so on, use RFM model for customer segment to evaluate customer behavior.
 
-Virus đã cho thấy bằng chứng lây truyền từ người sang ngườiTốc độ lây truyền (tỷ lệ lây nhiễm) dường như leo thang vào giữa tháng 1 năm 2020Tính đến ngày 30 tháng 1 năm 2020, có khoảng 8.243 trường hợp được xác nhận.
+    Calculating percentage growth  of those KPIs throughout the years from 2011 to 2014 period to witness trend.
+
+    To recommend some suggestion to enhance company sale performance.
+
+Skills from this project:
+
+Data Analyst skilled in SQL Server and Power BI
+
